@@ -9,3 +9,4 @@ It include the below set of problems solved by using Python
 5) Any two number add upto k - Daily Coding Problem
 6) Nested List - HackerRank Problem
 7) Map and Lambda Function - HackerRank Problem
+8) List Opertions - HackerRank Problem
